@@ -1,14 +1,16 @@
 <resources>
     <string name="app_name">NanodegreeProjeto01</string>
     <string name="lista_servicos">
-        <li>Abertura de empresas</li>\n
+        <li> Abertura de empresas</li>\n
         <li>Alteração de empresas</li>\n
         <li>Declaração de imposto de renda</li>\n
         <li>Folha de pagamento</li>
     </string>
     <string name="nome_empresa">A.S. CONTÁBIL</string>
     <string name="contato_empresa">CONTATOS</string>
-    <string name="endereco_empresa">ENDEREÇO</string>
-    <string name="telefone_empresa">Telefone para contato</string>
+    <string name="endereco_empresa">Rua Roza Resende, n 137, Morro da Liberdade</string>
+    <string name="telefone_empresa">(92) 98447-4596</string>
     <string name="servicos">SERVIÇOS</string>
+    <string name="email_empresa">aleizasuzane@gmail.com</string>
+    <string name="site_empresa">https://jbalves.github.io/ascontabil</string>
 </resources>
